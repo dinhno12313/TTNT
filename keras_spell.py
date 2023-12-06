@@ -1,14 +1,5 @@
 # encoding: utf-8
-'''
-Created on Nov 26, 2015
 
-@author: tal
-
-Based in part on:
-Learn math - https://github.com/fchollet/keras/blob/master/examples/addition_rnn.py
-
-See https://medium.com/@majortal/deep-spelling-9ffef96a24f6#.2c9pu8nlm
-'''
 
 from __future__ import print_function, division, unicode_literals
 
